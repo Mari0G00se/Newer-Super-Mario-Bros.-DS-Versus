@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ipodtouch0218.itch.io/nsmb-mariovsluigi">
+  <a href="https://mari0g00se.itch.io/newer-super-mario-bros-ds-versus>
     <img src="https://raw.githubusercontent.com/ipodtouch0218/NSMB-MarioVsLuigi/refs/heads/nightly/Assets/Sprites/UI/Menu/.title-vector.svg?raw=true" alt="Mario vs Luigi Online Logo" width="650px">
   </a>
 </p>
@@ -208,4 +208,5 @@ Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLui
     <img src="https://raw.githubusercontent.com/ipodtouch0218/NSMB-MarioVsLuigi/refs/heads/nightly/Assets/Sprites/UI/Menu/logo.png" alt="INFENEK GAMES Logo" width="240px">
   </a>
 </p>
+
 
